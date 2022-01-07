@@ -1,5 +1,5 @@
 # Web Automation with Selenium Using Python
-## Automated Submission in Codechef.com using Chromedriver Selenium and Python
+## Automated Submission in Codechef.com using Chromedriver, Selenium and Python
 
 ### **Objective of Project ::: Submit a Coding Solution to a Problem in Codechef.com by Automating the manual submission process**
 
