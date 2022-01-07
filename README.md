@@ -16,3 +16,4 @@
 #### Solution Approach: -
 Automate each step using Chrome driver selenium and Python script.
 
+[Completed Solution Understanding](https://medium.com/@pushpendrasinghcod/web-automation-with-selenium-using-python-20318e52422d)
